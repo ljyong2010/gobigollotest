@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gobigollotest&gt;">
+    <CLASSES>
+      <root url="file://D:/mygo/src/github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://D:/mygo/src/github.com/mattn/go-isatty/_example" />
+      <root url="file://D:/mygo/src/github.com/howeyc/fsnotify/.git" />
+      <root url="file://D:/mygo/src/github.com/mattn/go-colorable/.git" />
+      <root url="file://D:/mygo/src/github.com/henrylee2cn/thinkgo/.git" />
+      <root url="file://D:/mygo/src/github.com/mattn/go-colorable/_example" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://D:/mygo/src/github.com/mattn/go-isatty/.git" />
+      <root url="file://D:/mygo/src/github.com/elazarl/go-bindata-assetfs/.git" />
+    </excluded>
+  </library>
+</component>
